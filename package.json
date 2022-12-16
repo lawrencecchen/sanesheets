@@ -1,7 +1,7 @@
 {
   "name": "sanesheets",
-  "version": "0.0.4",
-  "module": "dist/index.ts",
+  "version": "0.0.5",
+  "module": "dist/index.js",
   "types": "dist/index.d.ts",
   "type": "module",
   "scripts": {
